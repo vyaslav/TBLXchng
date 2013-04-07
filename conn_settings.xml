@@ -1,0 +1,5 @@
+<connection>
+    <username>AVRAVIA</username>
+    <password>AVRAVIA</password>
+    <connString>//ebcm-db-kiev:1521/EBCM3</connString>
+</connection>
